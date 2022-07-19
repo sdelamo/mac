@@ -1,0 +1,150 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Sergio",
+      "surnames": "del Amo Caballero",
+      "description": "I like to think myself as a full stack developer. \n\t\nHowever, for the past 5 years I have being focused on JVM Development on the backend. I am a core committer of both open source frameworks Micronaut.io and Grails.org. Moreover, since late 2021 I am the Developer Advocate of 2GM (Groovy, Grails Micronaut) practice at Object Computing Inc. \n\t\nBefore that, I developed applications (both iOS and Android), built websites for small to medium businesses. From Wordpress to static websites to custom web applications. I have been self employed since 2008. First I was consulting, then I had a startup for 3 years.   \n\t\nI like HTML and CSS and the web.\n\t\nI like to write. I used to write a newsletter (https://groovycalamari.com). Nowadays, I write in my blog (https://sergiodelamo.com). \n\t\nI like podcasts. Moreover, I am currently the host of two podcasts (https://micronautpodcast.com and http://codigobot.com) which I self publish. \n\t\nI have done public speaking both in conferences, user groups and online events. I teach Micronaut and Grails training. \n\t\nDream, I would like to release a Software a Service application. Design it, code it, control every decision around it. Basecamp (37 Signals) have always been an inspiration to me.\n\nWorking for Apple would another dream. \n\nI have two kids (6 and 3). I live in Guadalajara, Spain. I have my family network here and I don't see myself moving or commuting to work anytime soon. I have been working remotely for the past 5 years. \n\nI am all-in on the Apple Ecosystem. I purchase a lot of Apple products. I like to consume Apple news (sixcolors.com and daringfireball.net) and related podcasts (Upgrade or Mac Power users - https://www.relay.fm/upgrade or https://www.relay.fm/mpu) are among my favorite podcasts. \n\t\nI like chess and poker but I have not played for the past several years."
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://codigobot.com"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/sdelamo"
+      },
+      {
+        "type": "other",
+        "URL": "https://sergiodelamo.com"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/2138/sergio-del-amo"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/sdelamo"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/sergiodelamo/"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "iOS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Grails",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Groovy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Micronaut",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/sergiodelamo/"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/2138/sergio-del-amo"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "DynamoDB",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "Lambda",
+          "type": "technology"
+        },
+        {
+          "name": "Micronaut",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
