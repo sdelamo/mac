@@ -130,6 +130,28 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "AWS Certified Developer – Associate",
+        "startDate": "2020-01-01",
+        "finishDate": "2030-01-01",
+        "institution": {
+          "name": "Amazon Web Services Training and Certification",
+          "description": "Earners of this certification have a comprehensive understanding of application life-cycle management. They demonstrated proficiency in writing applications with AWS service APIs, AWS CLI, and SDKs; using containers; and deploying with a CI/CD pipeline. Badge owners are able to develop, deploy, and debug cloud-based applications that follow AWS best practices.",
+          "URL": "https://www.credly.com/badges/2799a540-3140-42ef-a23e-50f35f2c8747/embedded",
+          "image": {
+            "alt": "image-5.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/e021e9c4-64d5-4935-be7a-1a9c6b27ca74_image-5.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
