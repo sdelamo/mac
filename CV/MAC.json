@@ -152,6 +152,21 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Telecomunication Technical Engineering",
+        "startDate": "2000-09-01",
+        "finishDate": "2004-06-01",
+        "institution": {
+          "name": "Universidad de Alcalá de Henares",
+          "description": "Specialty Telematics\n\nNumber one 2003/2004 Class Graduation Price",
+          "image": {
+            "alt": "12204.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/af578679-ec4c-4611-b3ec-f37b51b3a9d8_12204.png"
+          }
+        }
       }
     ]
   },
