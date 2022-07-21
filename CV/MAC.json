@@ -107,6 +107,30 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "AWS Certified Cloud Practitioner",
+        "startDate": "2021-10-01",
+        "finishDate": "2024-10-01",
+        "institution": {
+          "name": " Amazon Web Services Training and Certification",
+          "description": "Earners of this certification have a fundamental understanding of IT services and their uses in the AWS Cloud. They demonstrated cloud fluency and foundational AWS knowledge. ",
+          "URL": "https://www.credly.com/badges/b7c21437-edfa-4a81-bf29-0c0ca267d235/embedded",
+          "image": {
+            "alt": "image-4.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/b06837a8-2176-4d9b-8301-0e21de26b427_image-4.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
