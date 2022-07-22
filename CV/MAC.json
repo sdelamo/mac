@@ -84,6 +84,61 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Shoptimix",
+          "image": {
+            "alt": "ShoptimixLogo300x80.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/2af6c5d6-8e21-48ca-860c-45d43d2d4ee7_shoptimixlogo300x80.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Co-Founder & CTO",
+            "startDate": "2013-12-01",
+            "finishDate": "2016-11-01",
+            "challenges": [
+              {
+                "description": "Architected and developed the start-up product.\n\nA mobile app (iOS, Android) powered by a Grails 3 backend.\n\nDaily Tasks: Grails 3, iOS, Android, Geb Scraping, Web Design, Scripting.."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Gradle",
+                "type": "technology"
+              },
+              {
+                "name": "Grails",
+                "type": "technology"
+              },
+              {
+                "name": "Groovy",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Objective-C",
+                "type": "technology"
+              },
+              {
+                "name": "iOS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
