@@ -157,13 +157,13 @@
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Master of Science Telematics",
-        "startDate": "2005-09-01",
+        "startDate": "2004-09-01",
         "finishDate": "2007-11-01",
         "institution": {
           "name": "Graz University of Technology",
           "image": {
             "alt": "2560px-tu_graz.svg.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/6cb69ddf-41d9-4065-8cc7-8419fdc5f717_2560px-tu_graz.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/741ac56a-b1c6-49f6-ae18-bc29347aeb42_2560px-tu_graz.png"
           }
         }
       },
