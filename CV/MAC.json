@@ -37,6 +37,56 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Object Computing Inc.",
+          "image": {
+            "alt": "header-logo.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/ad0faabd-de7f-4871-aa6d-1ec3f5da64d9_header-logo.svg"
+          },
+          "URL": "https://objectcomputing.com"
+        },
+        "roles": [
+          {
+            "name": "Principal Software Engineer",
+            "startDate": "2017-01-01",
+            "competences": [
+              {
+                "name": "GraalVM",
+                "type": "technology"
+              },
+              {
+                "name": "Gradle",
+                "type": "technology"
+              },
+              {
+                "name": "Grails",
+                "type": "technology"
+              },
+              {
+                "name": "Groovy",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Micronaut",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
