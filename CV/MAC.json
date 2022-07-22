@@ -154,6 +154,20 @@
         ]
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Business financial management course",
+        "startDate": "2010-11-01",
+        "finishDate": "2011-02-01",
+        "institution": {
+          "name": "EOI Escuela de Organización Industrial",
+          "image": {
+            "alt": "unnamed-4.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/e2410667-9b16-4de1-8ccf-d7874495c352_unnamed-4.jpg"
+          }
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Master of Science Telematics",
