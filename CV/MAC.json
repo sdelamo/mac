@@ -140,6 +140,28 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Softamo SL",
+          "image": {
+            "alt": "softamo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/80a3c536-39ab-4635-8ff8-438d3bafb397_softamo.png"
+          },
+          "URL": "https://softamo.com"
+        },
+        "roles": [
+          {
+            "name": "Freelancer",
+            "startDate": "2008-01-01",
+            "finishDate": "2013-11-01",
+            "challenges": [
+              {
+                "description": "Founded and managed a software company, developing websites, online shops and mobile phone apps (iOS & Android) for private companies and local government organizations."
+              }
+            ]
+          }
+        ]
       }
     ]
   },
