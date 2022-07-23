@@ -163,6 +163,26 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Podcast Código Bot",
+          "URL": "https://codigobot.com",
+          "image": {
+            "alt": "artwork-landscape.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/23/543d4d2e-ac9d-406b-88c4-8697dacce2ab_artwork-landscape.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-01-01",
+            "finishDate": "2021-12-01"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
