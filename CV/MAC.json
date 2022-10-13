@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -16,8 +16,7 @@
       "location": {
         "country": "España",
         "region": "Castilla-La Mancha",
-        "municipality": "Guadalajara",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Guadalajara"
       }
     },
     "relevantLinks": [
@@ -231,6 +230,24 @@
       }
     ],
     "publicArtifacts": [
+      {
+        "details": {
+          "name": "Getting Started with Micronaut Framework in the Manchester JUG",
+          "description": "Online talk for the Manchester JUG about the Micronaut Framework.",
+          "URL": "https://www.youtube.com/watch?v=5UrKY3SbOkg"
+        },
+        "type": "video",
+        "publishingDate": "2022-03-01",
+        "relatedCompetences": [
+          {
+            "name": "Micronaut",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Meetup"
+        ]
+      },
       {
         "details": {
           "name": "Promotion to Distinguished Engineer",
