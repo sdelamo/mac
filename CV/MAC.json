@@ -311,13 +311,109 @@
       },
       {
         "skill": {
-          "name": "C++",
+          "name": "Micronaut",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Micronaut",
+          "name": "Gradle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Maven",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Lambda",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Swagger",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "S3",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Selenium",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sendgrid",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Serverless",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Servlet",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sketch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spock",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Struts",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Stripe",
           "type": "technology"
         }
       }
