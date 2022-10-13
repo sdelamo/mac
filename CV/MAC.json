@@ -1,14 +1,21 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Sergio",
       "surnames": "del Amo Caballero",
-      "description": "I like to think myself as a full stack developer. \n\t\nHowever, for the past 5 years I have being focused on JVM Development on the backend. I am a core committer of both open source frameworks Micronaut.io and Grails.org. Moreover, since late 2021 I am the Developer Advocate of 2GM (Groovy, Grails Micronaut) practice at Object Computing Inc. \n\t\nBefore that, I developed applications (both iOS and Android), built websites for small to medium businesses. From Wordpress to static websites to custom web applications. I have been self employed since 2008. First I was consulting, then I had a startup for 3 years.   \n\t\nI like HTML and CSS and the web.\n\t\nI like to write. I used to write a newsletter (https://groovycalamari.com). Nowadays, I write in my blog (https://sergiodelamo.com). \n\t\nI like podcasts. Moreover, I am currently the host of two podcasts (https://micronautpodcast.com and http://codigobot.com) which I self publish. \n\t\nI have done public speaking both in conferences, user groups and online events. I teach Micronaut and Grails training. \n\t\nDream, I would like to release a Software a Service application. Design it, code it, control every decision around it. Basecamp (37 Signals) have always been an inspiration to me.\n\nWorking for Apple would another dream. \n\nI have two kids (6 and 3). I live in Guadalajara, Spain. I have my family network here and I don't see myself moving or commuting to work anytime soon. I have been working remotely for the past 5 years. \n\nI am all-in on the Apple Ecosystem. I purchase a lot of Apple products. I like to consume Apple news (sixcolors.com and daringfireball.net) and related podcasts (Upgrade or Mac Power users - https://www.relay.fm/upgrade or https://www.relay.fm/mpu) are among my favorite podcasts. \n\t\nI like chess and poker but I have not played for the past several years."
+      "description": "I like to think myself as a full stack developer. \n\t\nHowever, for the past 5 years I have being focused on JVM Development on the backend. I am a core committer of both open source frameworks Micronaut.io and Grails.org. Moreover, since late 2021 I am the Developer Advocate of 2GM (Groovy, Grails Micronaut) practice at Object Computing Inc. \n\t\nBefore that, I developed applications (both iOS and Android), built websites for small to medium businesses. From Wordpress to static websites to custom web applications. I have been self employed since 2008. First I was consulting, then I had a startup for 3 years.   \n\t\nI like HTML and CSS and the web.\n\t\nI like to write. I used to write a newsletter (https://groovycalamari.com). Nowadays, I write in my blog (https://sergiodelamo.com). \n\t\nI like podcasts. Moreover, I am currently the host of two podcasts (https://micronautpodcast.com and http://codigobot.com) which I self publish. \n\t\nI have done public speaking both in conferences, user groups and online events. I teach Micronaut and Grails training. \n\t\nDream, I would like to release a Software a Service application. Design it, code it, control every decision around it. Basecamp (37 Signals) have always been an inspiration to me.\n\nWorking for Apple would another dream. \n\nI have two kids (6 and 3). I live in Guadalajara, Spain. I have my family network here and I don't see myself moving or commuting to work anytime soon. I have been working remotely for the past 5 years. \n\nI am all-in on the Apple Ecosystem. I purchase a lot of Apple products. I like to consume Apple news (sixcolors.com and daringfireball.net) and related podcasts (Upgrade or Mac Power users - https://www.relay.fm/upgrade or https://www.relay.fm/mpu) are among my favorite podcasts. \n\t\nI like chess and poker but I have not played for the past several years.",
+      "avatar": {
+        "alt": "avatar-mini.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/28e7180f-6b0b-4fe8-9001-8a4f56716750_avatar-mini.png"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
     },
     "relevantLinks": [
       {
@@ -50,8 +57,13 @@
         },
         "roles": [
           {
-            "name": "Principal Software Engineer",
+            "name": "Micronaut Development Lead",
             "startDate": "2017-01-01",
+            "challenges": [
+              {
+                "description": "Promotions: \n- 2022 March / Micronaut Development Lead \n- 2021 October / Developer advocate for Micronaut, Grails and Apache Groovy\n- 2022 January / Distinguished Engineer\n- 2022 January / Principal Software Engineer\n\nObject Computing Inc. maintains both open-source projects, Grails (https://grails.org) and Micronaut (https://micronaut.io) frameworks.\n\nDuring my first years at Object Computing, I helped clients migrate applications from Grails 2 to Grails 3/4. Also, I supported clients using Grails. Moreover, I worked directly in the open-source development of the Grails Framework. I contributed to the framework core code, plugins (especially security modules), and guides. I have written/reviewed almost every Grails guide. https://guides.grails.org\n\nI got involved with the Micronaut framework since its inception in 2018, and my work shifted from Grails to Micronaut.\n\nSince March 2022, I have been a member of the Micronaut Foundation Board Of Directors and Micronaut Development Lead at Object Computing. Currently, I manage the framework releases and schedule and help coordinate the collaboration of the Oracle Labs and Object Computing teams. \n\nMy most significant areas of contribution to the framework are: \nI write / review most of the Micronaut Guides (https://guides.micronaut.io)\nI review PRs (pull requests), release modules, and contribute code to the framework. \nI have done a lot of the development of the modules: Security, AWS, Views, RSS, Problem+JSON, Email, Microstream, Chatbots, and Multi-tenancy.\nI do talks at conferences, meetups, and online webinars about the Micronaut framework.\nI search for sponsors for the Micronaut foundation and help with partners. \n"
+              }
+            ],
             "competences": [
               {
                 "name": "GraalVM",
@@ -114,6 +126,10 @@
                 "type": "technology"
               },
               {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
                 "name": "Gradle",
                 "type": "technology"
               },
@@ -131,10 +147,6 @@
               },
               {
                 "name": "Objective-C",
-                "type": "technology"
-              },
-              {
-                "name": "iOS",
                 "type": "technology"
               }
             ]
@@ -167,6 +179,37 @@
     "projects": [
       {
         "details": {
+          "name": "Micronaut Framework",
+          "URL": "https://micronaut.io",
+          "image": {
+            "alt": "Micronaut_OG_Logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/6cbe3456-27d6-421e-a9ec-ee928edf5952_micronaut_og_logo.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2018-03-01",
+            "competences": [
+              {
+                "name": "Groovy",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Podcast Código Bot",
           "URL": "https://codigobot.com",
           "image": {
@@ -183,6 +226,23 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Promotion to Distinguished Engineer",
+          "description": "I got promoted to Distinguished Engineer in January 2022.\n\n> OCI recognizes individuals who have demonstrated subject matter expertise in one or more technology areas, and who serve as an organizational and community thought leader and champion, as “Distinguished Engineer”.\n\nA Distinguished engineer:\n\n> - Demonstrates subject matter expertise in specific technology area(s)\n> - Applies expertise to create novel approaches to problems\n> - Stays current with evolutions in the specific technology area(s) and/or emerging related technologies\n> - Are Capable of communicating, sharing, consulting, on the subject matter, serving as a consultant/leader within OCI and with our clients and community\n> - Shares expertise with others both inside and outside of OCI in the forms of mentoring, screencasts, user group and conference presentations, and writing\n> - Provides significant contributions to related open source software\n> - Brings name recognition to OCI through involvement in user groups, conferences, standards bodies, or similar"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-01-01"
+      },
+      {
+        "details": {
+          "name": "Principal Software Engineer"
+        },
+        "type": "achievement",
+        "publishingDate": "2021-01-01"
+      }
     ]
   },
   "knowledge": {
@@ -197,31 +257,25 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Groovy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Grails",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JAVA",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "C++",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "iOS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS",
+          "name": "Apple iOS",
           "type": "technology"
         }
       },
@@ -239,13 +293,19 @@
       },
       {
         "skill": {
-          "name": "Grails",
+          "name": "CSS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Groovy",
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C++",
           "type": "technology"
         }
       },
@@ -381,6 +441,16 @@
           "name": "Micronaut",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Developer Evangelist & Advocate",
+        "Full-stack Developer",
+        "Layout Designer / Maquetación",
+        "Mobile Developer",
+        "Software Architect",
+        "Tech Lead",
+        "VP of Engineering"
       ]
     }
   }
