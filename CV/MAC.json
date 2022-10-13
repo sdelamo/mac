@@ -14,6 +14,9 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/28e7180f-6b0b-4fe8-9001-8a4f56716750_avatar-mini.png"
       },
       "location": {
+        "country": "España",
+        "region": "Castilla-La Mancha",
+        "municipality": "Guadalajara",
         "notes": "Autocompleted using Google Maps API"
       }
     },
