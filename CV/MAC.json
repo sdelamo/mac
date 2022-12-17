@@ -296,7 +296,7 @@
           "description": "Online talk for the Manchester JUG about the Micronaut Framework.",
           "URL": "https://www.youtube.com/watch?v=5UrKY3SbOkg"
         },
-        "type": "video",
+        "type": "talk",
         "publishingDate": "2022-03-01",
         "relatedCompetences": [
           {
