@@ -297,6 +297,27 @@
       },
       {
         "details": {
+          "name": "Micronaut Security Workshop",
+          "description": "I presented a workshop about Micronaut Security at JBCNConf 2022.",
+          "image": {
+            "alt": "sergio-del-amo-talking-about-micronaut-security-filter-at-barcelona-jbcnconf-2022.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/17/7899eac8-84f4-49ba-812a-ebdcac18251c_sergio-del-amo-talki.jpg"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2022-07-01",
+        "relatedCompetences": [
+          {
+            "name": "Micronaut",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Conferences"
+        ]
+      },
+      {
+        "details": {
           "name": "AWS Lambda and Micronaut Framework Workshop at AWS Dublin Offices",
           "description": "I delivered a in-person course for AWS Customers in Dublin AWS Offices on Friday 27th May. "
         },
