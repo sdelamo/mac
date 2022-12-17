@@ -258,6 +258,23 @@
       },
       {
         "details": {
+          "name": "JCON 2022 - Micronaut Framework and MicroStream Java-native persistence engine",
+          "URL": "https://sergiodelamo.com/blog/jcon-2022-micronaut-microstream.html"
+        },
+        "type": "talk",
+        "publishingDate": "2022-09-01",
+        "relatedCompetences": [
+          {
+            "name": "Micronaut",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Conferences"
+        ]
+      },
+      {
+        "details": {
           "name": "Getting Started with Micronaut Framework in the Manchester JUG",
           "description": "Online talk for the Manchester JUG about the Micronaut Framework.",
           "URL": "https://www.youtube.com/watch?v=5UrKY3SbOkg"
