@@ -356,6 +356,32 @@
       },
       {
         "details": {
+          "name": "Micronaut Framework y AWS Lambda",
+          "description": "I talked a Barcelona Java User group about AWS Lambda and the Micronaut Framework.",
+          "URL": "https://www.youtube.com/watch?v=S3qYOVNaKS8"
+        },
+        "type": "talk",
+        "publishingDate": "2022-04-01",
+        "relatedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "Lambda",
+            "type": "technology"
+          },
+          {
+            "name": "Micronaut",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Meetup"
+        ]
+      },
+      {
+        "details": {
           "name": "Getting Started with Micronaut Framework in the Manchester JUG",
           "description": "Online talk for the Manchester JUG about the Micronaut Framework.",
           "URL": "https://www.youtube.com/watch?v=5UrKY3SbOkg"
