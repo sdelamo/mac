@@ -263,6 +263,23 @@
       },
       {
         "details": {
+          "name": "Leveraging Microstream in your Micronaut Applications",
+          "description": "I did an online talk about Micronaut framework integration with MicroStream. "
+        },
+        "type": "talk",
+        "publishingDate": "2022-10-01",
+        "relatedCompetences": [
+          {
+            "name": "Micronaut",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Webinar"
+        ]
+      },
+      {
+        "details": {
           "name": "JCON 2022 - Getting Started with the Micronaut Framework",
           "URL": "https://www.youtube.com/watch?v=gvi-F5BDPXc&embeds_euri=https%3A%2F%2Fsergiodelamo.com%2F&feature=emb_title"
         },
