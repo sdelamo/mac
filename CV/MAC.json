@@ -373,6 +373,28 @@
       },
       {
         "details": {
+          "name": "How Micronaut Practices Developer Productivity Engineering Using Gradle Enterprise",
+          "description": "I did an online webinar with one of my colleagues Cedric Champeau about our experience setting up Gradle Enterprise for 40+ Micronaut projects to improve developer productivity. We shared developer productivity wins, and insights gained using Gradle Enterprise to improve build times by 50%.",
+          "URL": "https://www.youtube.com/watch?v=fpz63IwFIZM"
+        },
+        "type": "talk",
+        "publishingDate": "2022-05-01",
+        "relatedCompetences": [
+          {
+            "name": "Gradle",
+            "type": "technology"
+          },
+          {
+            "name": "Micronaut",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Webinar"
+        ]
+      },
+      {
+        "details": {
           "name": "Barcelona JUG: Micronaut Framework y AWS Lambda",
           "description": "I did an online talk a Barcelona Java User group about AWS Lambda and the Micronaut Framework.",
           "URL": "https://www.youtube.com/watch?v=S3qYOVNaKS8"
