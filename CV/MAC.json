@@ -489,7 +489,37 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Google Cloud",
+          "name": "Selenium",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Grails",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spock",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Swagger",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
           "type": "technology"
         }
       },
@@ -501,7 +531,7 @@
       },
       {
         "skill": {
-          "name": "Selenium",
+          "name": "CSS",
           "type": "technology"
         }
       },
@@ -519,7 +549,7 @@
       },
       {
         "skill": {
-          "name": "Swagger",
+          "name": "JAVA",
           "type": "technology"
         }
       },
@@ -531,121 +561,13 @@
       },
       {
         "skill": {
-          "name": "JUnit",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Apple iOS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Grails",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Sketch",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Micronaut",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Serverless",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "WordPress",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Lambda",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Android",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring Boot",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Servlet",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spock",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Struts",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kotlin",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Groovy",
           "type": "technology"
         }
       },
@@ -670,6 +592,90 @@
       {
         "skill": {
           "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Servlet",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sketch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Groovy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Micronaut",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Struts",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Serverless",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JUnit",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Objective-C",
           "type": "technology"
         }
       }
