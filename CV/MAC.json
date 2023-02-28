@@ -1,14 +1,15 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Sergio",
       "surnames": "del Amo Caballero",
-      "description": "I like to think of myself as a full-stack developer. \n\t\nSince 2017, I have been a core contributor to both open-source JVM frameworks Micronaut.io and Grails.org\n\t\nBefore that, I developed applications (both iOS and Android) and built websites for small to medium businesses. From WordPress to static websites to custom web applications. I have been self-employed since 2008. First, I was consulting, and then I had a startup for three years.   \n\t\nI like Gradle, Java, Groovy, HTML and CSS, and the web.\n\t\nI like to write. I used to write a newsletter (https://groovycalamari.com). Nowadays, I write in my blog (https://sergiodelamo.com). \n\t\nI like podcasts. Moreover, I am currently the host of two podcasts (https://micronautpodcast.com and http://codigobot.com) which I self-publish. \n\t\nI have done public speaking in conferences, user groups, and online events. I teach Micronaut and Grails training both on-site and online. \n\t\nMy Dreams\n\nI want to release a Software a Service application. Design it, code it, and control every decision around it. \n\n37 Signals and Apple have always been an inspiration to me. Working for Apple would be another dream. \n\nPersonal\n\nI live in Guadalajara, Spain. I have two kids. My family network is here, and I don't see myself moving or commuting to work anytime soon. I have been working remotely since 2017.\n\nI am all-in on the Apple Ecosystem. I purchase a lot of Apple products. I like to consume Apple news (sixcolors.com and daringfireball.net), and related podcasts (Upgrade or Mac Power users - https://www.relay.fm/upgrade or https://www.relay.fm/mpu) are among my favorite podcasts. \n\t\nI like chess and poker but have not played for the past several years.",
+      "title": "",
+      "description": "",
       "avatar": {
         "alt": "avatar-mini.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/28e7180f-6b0b-4fe8-9001-8a4f56716750_avatar-mini.png"
@@ -16,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Castilla-La Mancha",
-        "municipality": "Guadalajara"
+        "municipality": "Guadalajara",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -182,6 +184,7 @@
       {
         "details": {
           "name": "Micronaut Framework",
+          "description": "",
           "URL": "https://micronaut.io",
           "image": {
             "alt": "Micronaut_OG_Logo.png",
@@ -213,6 +216,7 @@
       {
         "details": {
           "name": "Podcast Código Bot",
+          "description": "",
           "URL": "https://codigobot.com",
           "image": {
             "alt": "artwork-landscape.png",
@@ -237,7 +241,10 @@
           "URL": "https://www.linkedin.com/feed/update/urn:li:activity:7008850408336953344/"
         },
         "type": "achievement",
-        "publishingDate": "2022-12-01"
+        "publishingDate": "2022-12-01",
+        "tags": [
+          ""
+        ]
       },
       {
         "details": {
@@ -281,6 +288,7 @@
       {
         "details": {
           "name": "JCON 2022 - Getting Started with the Micronaut Framework",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=gvi-F5BDPXc&embeds_euri=https%3A%2F%2Fsergiodelamo.com%2F&feature=emb_title"
         },
         "type": "talk",
@@ -298,6 +306,7 @@
       {
         "details": {
           "name": "JCON 2022 - Micronaut Framework and MicroStream Java-native persistence engine",
+          "description": "",
           "URL": "https://sergiodelamo.com/blog/jcon-2022-micronaut-microstream.html"
         },
         "type": "talk",
@@ -357,6 +366,7 @@
       {
         "details": {
           "name": "Geecon Krakow 2022 - Getting Started with the Micronaut® Framework",
+          "description": "",
           "URL": "https://www.youtube.com/watch?v=ibf8T1hoXMM"
         },
         "type": "talk",
@@ -443,27 +453,37 @@
           "description": "I got promoted to Distinguished Engineer in January 2022.\n\n> OCI recognizes individuals who have demonstrated subject matter expertise in one or more technology areas, and who serve as an organizational and community thought leader and champion, as “Distinguished Engineer”.\n\nA Distinguished engineer:\n\n> - Demonstrates subject matter expertise in specific technology area(s)\n> - Applies expertise to create novel approaches to problems\n> - Stays current with evolutions in the specific technology area(s) and/or emerging related technologies\n> - Are Capable of communicating, sharing, consulting, on the subject matter, serving as a consultant/leader within OCI and with our clients and community\n> - Shares expertise with others both inside and outside of OCI in the forms of mentoring, screencasts, user group and conference presentations, and writing\n> - Provides significant contributions to related open source software\n> - Brings name recognition to OCI through involvement in user groups, conferences, standards bodies, or similar"
         },
         "type": "achievement",
-        "publishingDate": "2022-01-01"
+        "publishingDate": "2022-01-01",
+        "tags": [
+          ""
+        ]
       },
       {
         "details": {
-          "name": "Principal Software Engineer"
+          "name": "Principal Software Engineer",
+          "description": ""
         },
         "type": "achievement",
-        "publishingDate": "2021-01-01"
+        "publishingDate": "2021-01-01",
+        "tags": [
+          ""
+        ]
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "German"
+        "name": "German",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -713,6 +733,7 @@
         "finishDate": "2011-02-01",
         "institution": {
           "name": "EOI Escuela de Organización Industrial",
+          "description": "",
           "image": {
             "alt": "unnamed-4.jpg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/e2410667-9b16-4de1-8ccf-d7874495c352_unnamed-4.jpg"
@@ -727,6 +748,8 @@
         "finishDate": "2007-11-01",
         "institution": {
           "name": "Graz University of Technology",
+          "description": "",
+          "URL": "",
           "image": {
             "alt": "2560px-tu_graz.svg.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/741ac56a-b1c6-49f6-ae18-bc29347aeb42_2560px-tu_graz.png"
@@ -796,6 +819,7 @@
         "Tech Lead",
         "VP of Engineering"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
