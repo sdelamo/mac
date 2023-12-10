@@ -1,34 +1,41 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "ES",
-    "MACVersion": "0.3"
+    "language": "EN",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Sergio",
       "surnames": "del Amo Caballero",
-      "title": "",
-      "description": "",
+      "title": "Title",
       "avatar": {
-        "alt": "avatar-mini.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/28e7180f-6b0b-4fe8-9001-8a4f56716750_avatar-mini.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/28e7180f-6b0b-4fe8-9001-8a4f56716750_avatar-mini.png",
+        "alt": "avatar-mini.png"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJO_V_mGOsQw0RLkkHLC5wCoA)",
         "country": "España",
         "region": "Castilla-La Mancha",
-        "municipality": "Guadalajara",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Guadalajara"
       }
     },
     "relevantLinks": [
       {
-        "type": "other",
-        "URL": "https://codigobot.com"
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/sergiodelamo/"
       },
       {
         "type": "github",
         "URL": "https://github.com/sdelamo"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/sdelamo"
+      },
+      {
+        "type": "stackoverflow",
+        "URL": "https://stackoverflow.com/users/2138/sergio-del-amo"
       },
       {
         "type": "other",
@@ -36,15 +43,7 @@
       },
       {
         "type": "other",
-        "URL": "https://stackoverflow.com/users/2138/sergio-del-amo"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/sdelamo"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/sergiodelamo/"
+        "URL": "https://codigobot.com"
       }
     ]
   },
@@ -52,10 +51,32 @@
     "jobs": [
       {
         "organization": {
+          "name": "Unity Foundation",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/20/9c7919ce-2b2a-4e3d-9aaa-a95384ffacb0_unitylogo.png",
+            "alt": "UnityLogo.png"
+          },
+          "URL": "https://unityfoundation.io"
+        },
+        "roles": [
+          {
+            "name": "Micronaut Product Development Lead / Distinguished Engineer",
+            "startDate": "2023-03-01",
+            "competences": [
+              {
+                "name": "Micronaut Framework",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Object Computing Inc.",
           "image": {
-            "alt": "bar.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/948f5e83-992f-4d24-81b7-494829c9321e_bar.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/948f5e83-992f-4d24-81b7-494829c9321e_bar.png",
+            "alt": "bar.png"
           },
           "URL": "https://objectcomputing.com"
         },
@@ -63,6 +84,7 @@
           {
             "name": "Micronaut Development Lead",
             "startDate": "2017-01-01",
+            "finishDate": "2023-03-01",
             "challenges": [
               {
                 "description": "Promotions: \n- 2022 March / Micronaut Development Lead \n- 2021 October / Developer advocate for Micronaut, Grails and Apache Groovy\n- 2021 January / Distinguished Engineer\n- 2020 January / Principal Software Engineer\n\nObject Computing Inc. maintains both open-source projects, Grails (https://grails.org) and Micronaut (https://micronaut.io) frameworks.\n\nDuring my first years at Object Computing, I helped clients migrate applications from Grails 2 to Grails 3/4. Also, I supported clients using Grails. Moreover, I worked directly in the open-source development of the Grails Framework. I contributed to the framework core code, plugins (especially security modules), and guides. I have written/reviewed almost every Grails guide. https://guides.grails.org\n\nI got involved with the Micronaut framework since its inception in 2018, and my work shifted from Grails to Micronaut.\n\nSince March 2022, I have been a member of the Micronaut Foundation Board Of Directors and Micronaut Development Lead at Object Computing. Currently, I manage the framework releases and schedule and help coordinate the collaboration of the Oracle Labs and Object Computing teams. \n\nMy most significant areas of contribution to the framework are: \nI write / review most of the Micronaut Guides (https://guides.micronaut.io)\nI review PRs (pull requests), release modules, and contribute code to the framework. \nI have done a lot of the development of the modules: Security, AWS, Views, RSS, Problem+JSON, Email, Microstream, Chatbots, and Multi-tenancy.\nI do talks at conferences, meetups, and online webinars about the Micronaut framework.\nI search for sponsors for the Micronaut foundation and help with partners. \n"
@@ -90,7 +112,7 @@
                 "type": "technology"
               },
               {
-                "name": "Micronaut",
+                "name": "Micronaut Framework",
                 "type": "technology"
               },
               {
@@ -105,8 +127,8 @@
         "organization": {
           "name": "Shoptimix",
           "image": {
-            "alt": "ShoptimixLogo300x80.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/eec52545-c0f3-42f7-9731-fc70edf4a030_shoptimixlogo300x80.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/eec52545-c0f3-42f7-9731-fc70edf4a030_shoptimixlogo300x80.png",
+            "alt": "ShoptimixLogo300x80.png"
           },
           "URL": "https://web.archive.org/web/20190726121029/http://shoptimix.com/"
         },
@@ -161,8 +183,8 @@
         "organization": {
           "name": "Softamo SL",
           "image": {
-            "alt": "softamo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/80a3c536-39ab-4635-8ff8-438d3bafb397_softamo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/80a3c536-39ab-4635-8ff8-438d3bafb397_softamo.png",
+            "alt": "softamo.png"
           },
           "URL": "https://softamo.com"
         },
@@ -183,12 +205,29 @@
     "projects": [
       {
         "details": {
+          "name": "Podcast Código Bot",
+          "URL": "https://codigobot.com",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/23/543d4d2e-ac9d-406b-88c4-8697dacce2ab_artwork-landscape.png",
+            "alt": "artwork-landscape.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-01-01",
+            "finishDate": "2021-12-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Micronaut Framework",
-          "description": "",
           "URL": "https://micronaut.io",
           "image": {
-            "alt": "Micronaut_OG_Logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/6cbe3456-27d6-421e-a9ec-ee928edf5952_micronaut_og_logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/6cbe3456-27d6-421e-a9ec-ee928edf5952_micronaut_og_logo.png",
+            "alt": "Micronaut_OG_Logo.png"
           }
         },
         "type": "openSource",
@@ -212,40 +251,9 @@
             ]
           }
         ]
-      },
-      {
-        "details": {
-          "name": "Podcast Código Bot",
-          "description": "",
-          "URL": "https://codigobot.com",
-          "image": {
-            "alt": "artwork-landscape.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/23/543d4d2e-ac9d-406b-88c4-8697dacce2ab_artwork-landscape.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2021-01-01",
-            "finishDate": "2021-12-01"
-          }
-        ]
       }
     ],
     "publicArtifacts": [
-      {
-        "details": {
-          "name": "Partner of Object Computing Inc.",
-          "description": "In December of 2017, I flew to St. Louis to attend Object Computing's holiday partner. Gina M Bremehr, President and COO, welcomed me as a new partner\n\n> Excited and grateful to welcome Teresa Cathey, Tino Nwamba, Sergio del Amo Caballero, Kianna Reed, and Robert Elfanbaum as Object Computing Partners and Equity Shareholders. Thank you to each of you for your outstanding contributions and leadership.\n\n> All of us is better than any one of us. Innovate courageously and mindfully. Share it back.",
-          "URL": "https://www.linkedin.com/feed/update/urn:li:activity:7008850408336953344/"
-        },
-        "type": "achievement",
-        "publishingDate": "2022-12-01",
-        "tags": [
-          ""
-        ]
-      },
       {
         "details": {
           "name": "Training - Micronaut Essentials",
@@ -254,19 +262,28 @@
         },
         "type": "talk",
         "publishingDate": "2022-12-01",
+        "tags": [
+          "Training"
+        ],
         "relatedCompetences": [
           {
-            "name": "Micronaut",
+            "name": "Micronaut Framework",
             "type": "technology"
           },
           {
             "name": "OpenApi",
             "type": "technology"
           }
-        ],
-        "tags": [
-          "Training"
         ]
+      },
+      {
+        "details": {
+          "name": "Partner of Object Computing Inc.",
+          "description": "In December of 2017, I flew to St. Louis to attend Object Computing's holiday partner. Gina M Bremehr, President and COO, welcomed me as a new partner\n\n> Excited and grateful to welcome Teresa Cathey, Tino Nwamba, Sergio del Amo Caballero, Kianna Reed, and Robert Elfanbaum as Object Computing Partners and Equity Shareholders. Thank you to each of you for your outstanding contributions and leadership.\n\n> All of us is better than any one of us. Innovate courageously and mindfully. Share it back.",
+          "URL": "https://www.linkedin.com/feed/update/urn:li:activity:7008850408336953344/"
+        },
+        "type": "achievement",
+        "publishingDate": "2022-12-01"
       },
       {
         "details": {
@@ -275,50 +292,48 @@
         },
         "type": "talk",
         "publishingDate": "2022-10-01",
-        "relatedCompetences": [
-          {
-            "name": "Micronaut",
-            "type": "technology"
-          }
-        ],
         "tags": [
           "Webinar"
-        ]
-      },
-      {
-        "details": {
-          "name": "JCON 2022 - Getting Started with the Micronaut Framework",
-          "description": "",
-          "URL": "https://www.youtube.com/watch?v=gvi-F5BDPXc&embeds_euri=https%3A%2F%2Fsergiodelamo.com%2F&feature=emb_title"
-        },
-        "type": "talk",
-        "publishingDate": "2022-09-01",
+        ],
         "relatedCompetences": [
           {
-            "name": "Micronaut",
+            "name": "Micronaut Framework",
             "type": "technology"
           }
-        ],
-        "tags": [
-          "Conferences"
         ]
       },
       {
         "details": {
           "name": "JCON 2022 - Micronaut Framework and MicroStream Java-native persistence engine",
-          "description": "",
           "URL": "https://sergiodelamo.com/blog/jcon-2022-micronaut-microstream.html"
         },
         "type": "talk",
         "publishingDate": "2022-09-01",
-        "relatedCompetences": [
-          {
-            "name": "Micronaut",
-            "type": "technology"
-          }
-        ],
         "tags": [
           "Conferences"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Micronaut Framework",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "JCON 2022 - Getting Started with the Micronaut Framework",
+          "URL": "https://www.youtube.com/watch?v=gvi-F5BDPXc&embeds_euri=https%3A%2F%2Fsergiodelamo.com%2F&feature=emb_title"
+        },
+        "type": "talk",
+        "publishingDate": "2022-09-01",
+        "tags": [
+          "Conferences"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Micronaut Framework",
+            "type": "technology"
+          }
         ]
       },
       {
@@ -326,59 +341,20 @@
           "name": "Micronaut Security Workshop",
           "description": "I presented a workshop about Micronaut Security at JBCNConf 2022.",
           "image": {
-            "alt": "sergio-del-amo-talking-about-micronaut-security-filter-at-barcelona-jbcnconf-2022.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/17/7899eac8-84f4-49ba-812a-ebdcac18251c_sergio-del-amo-talki.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/17/7899eac8-84f4-49ba-812a-ebdcac18251c_sergio-del-amo-talki.jpg",
+            "alt": "sergio-del-amo-talking-about-micronaut-security-filter-at-barcelona-jbcnconf-2022.jpg"
           }
         },
         "type": "talk",
         "publishingDate": "2022-07-01",
-        "relatedCompetences": [
-          {
-            "name": "Micronaut",
-            "type": "technology"
-          }
-        ],
         "tags": [
           "Conferences"
-        ]
-      },
-      {
-        "details": {
-          "name": "AWS Lambda and Micronaut Framework Workshop at AWS Dublin Offices",
-          "description": "I delivered a in-person course for AWS Customers in Dublin AWS Offices on Friday 27th May. "
-        },
-        "type": "talk",
-        "publishingDate": "2022-05-01",
+        ],
         "relatedCompetences": [
           {
-            "name": "Lambda",
-            "type": "technology"
-          },
-          {
-            "name": "Micronaut",
+            "name": "Micronaut Framework",
             "type": "technology"
           }
-        ],
-        "tags": [
-          "Training"
-        ]
-      },
-      {
-        "details": {
-          "name": "Geecon Krakow 2022 - Getting Started with the Micronaut® Framework",
-          "description": "",
-          "URL": "https://www.youtube.com/watch?v=ibf8T1hoXMM"
-        },
-        "type": "talk",
-        "publishingDate": "2022-05-01",
-        "relatedCompetences": [
-          {
-            "name": "Micronaut",
-            "type": "technology"
-          }
-        ],
-        "tags": [
-          "Conferences"
         ]
       },
       {
@@ -389,18 +365,56 @@
         },
         "type": "talk",
         "publishingDate": "2022-05-01",
+        "tags": [
+          "Webinar"
+        ],
         "relatedCompetences": [
           {
             "name": "Gradle",
             "type": "technology"
           },
           {
-            "name": "Micronaut",
+            "name": "Micronaut Framework",
             "type": "technology"
           }
-        ],
+        ]
+      },
+      {
+        "details": {
+          "name": "Geecon Krakow 2022 - Getting Started with the Micronaut® Framework",
+          "URL": "https://www.youtube.com/watch?v=ibf8T1hoXMM"
+        },
+        "type": "talk",
+        "publishingDate": "2022-05-01",
         "tags": [
-          "Webinar"
+          "Conferences"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Micronaut Framework",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "AWS Lambda and Micronaut Framework Workshop at AWS Dublin Offices",
+          "description": "I delivered a in-person course for AWS Customers in Dublin AWS Offices on Friday 27th May. "
+        },
+        "type": "talk",
+        "publishingDate": "2022-05-01",
+        "tags": [
+          "Training"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "AWS Lambda",
+            "type": "technology"
+          },
+          {
+            "name": "Micronaut Framework",
+            "type": "technology"
+          }
         ]
       },
       {
@@ -411,22 +425,22 @@
         },
         "type": "talk",
         "publishingDate": "2022-04-01",
+        "tags": [
+          "Meetup"
+        ],
         "relatedCompetences": [
           {
             "name": "AWS",
             "type": "technology"
           },
           {
-            "name": "Lambda",
+            "name": "AWS Lambda",
             "type": "technology"
           },
           {
-            "name": "Micronaut",
+            "name": "Micronaut Framework",
             "type": "technology"
           }
-        ],
-        "tags": [
-          "Meetup"
         ]
       },
       {
@@ -437,14 +451,14 @@
         },
         "type": "talk",
         "publishingDate": "2022-03-01",
-        "relatedCompetences": [
-          {
-            "name": "Micronaut",
-            "type": "technology"
-          }
-        ],
         "tags": [
           "Meetup"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Micronaut Framework",
+            "type": "technology"
+          }
         ]
       },
       {
@@ -453,109 +467,51 @@
           "description": "I got promoted to Distinguished Engineer in January 2022.\n\n> OCI recognizes individuals who have demonstrated subject matter expertise in one or more technology areas, and who serve as an organizational and community thought leader and champion, as “Distinguished Engineer”.\n\nA Distinguished engineer:\n\n> - Demonstrates subject matter expertise in specific technology area(s)\n> - Applies expertise to create novel approaches to problems\n> - Stays current with evolutions in the specific technology area(s) and/or emerging related technologies\n> - Are Capable of communicating, sharing, consulting, on the subject matter, serving as a consultant/leader within OCI and with our clients and community\n> - Shares expertise with others both inside and outside of OCI in the forms of mentoring, screencasts, user group and conference presentations, and writing\n> - Provides significant contributions to related open source software\n> - Brings name recognition to OCI through involvement in user groups, conferences, standards bodies, or similar"
         },
         "type": "achievement",
-        "publishingDate": "2022-01-01",
-        "tags": [
-          ""
-        ]
+        "publishingDate": "2022-01-01"
       },
       {
         "details": {
-          "name": "Principal Software Engineer",
-          "description": ""
+          "name": "Principal Software Engineer"
         },
         "type": "achievement",
-        "publishingDate": "2021-01-01",
-        "tags": [
-          ""
-        ]
+        "publishingDate": "2021-01-01"
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Native or bilingual proficiency"
-      },
-      {
-        "name": "German",
+        "name": "DE",
+        "fullName": "Alemán",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Selenium",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Grails",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spock",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Swagger",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kotlin",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring Boot",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Maven",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Gradle",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS Lambda",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android",
           "type": "technology"
         }
       },
@@ -567,25 +523,37 @@
       },
       {
         "skill": {
-          "name": "Lambda",
+          "name": "CSS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Stripe",
+          "name": "Docker",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Sendgrid",
+          "name": "Google Cloud",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "S3",
+          "name": "Gradle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Grails",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Groovy",
           "type": "technology"
         }
       },
@@ -597,7 +565,73 @@
       },
       {
         "skill": {
-          "name": "Google Cloud",
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JUnit",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Maven",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Micronaut Framework",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Objective-C",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "S3",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Selenium",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sendgrid",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Serverless",
           "type": "technology"
         }
       },
@@ -615,31 +649,7 @@
       },
       {
         "skill": {
-          "name": "Android",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Groovy",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "WordPress",
+          "name": "Spock",
           "type": "technology"
         }
       },
@@ -651,7 +661,13 @@
       },
       {
         "skill": {
-          "name": "Micronaut",
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Stripe",
           "type": "technology"
         }
       },
@@ -663,19 +679,13 @@
       },
       {
         "skill": {
-          "name": "Serverless",
+          "name": "Swagger",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JUnit",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Objective-C",
+          "name": "WordPress",
           "type": "technology"
         }
       }
@@ -686,16 +696,16 @@
         "degreeAchieved": true,
         "name": "AWS Certified Cloud Practitioner",
         "startDate": "2021-10-01",
-        "finishDate": "2024-10-01",
         "institution": {
           "name": " Amazon Web Services Training and Certification",
           "description": "Earners of this certification have a fundamental understanding of IT services and their uses in the AWS Cloud. They demonstrated cloud fluency and foundational AWS knowledge. ",
           "URL": "https://www.credly.com/badges/b7c21437-edfa-4a81-bf29-0c0ca267d235/embedded",
           "image": {
-            "alt": "image-4.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/b06837a8-2176-4d9b-8301-0e21de26b427_image-4.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/b06837a8-2176-4d9b-8301-0e21de26b427_image-4.png",
+            "alt": "image-4.png"
           }
         },
+        "finishDate": "2024-10-01",
         "linkedCompetences": [
           {
             "name": "AWS",
@@ -708,16 +718,16 @@
         "degreeAchieved": true,
         "name": "AWS Certified Developer – Associate",
         "startDate": "2020-01-01",
-        "finishDate": "2026-01-01",
         "institution": {
           "name": "Amazon Web Services Training and Certification",
           "description": "Earners of this certification have a comprehensive understanding of application life-cycle management. They demonstrated proficiency in writing applications with AWS service APIs, AWS CLI, and SDKs; using containers; and deploying with a CI/CD pipeline. Badge owners are able to develop, deploy, and debug cloud-based applications that follow AWS best practices.",
           "URL": "https://www.credly.com/badges/2799a540-3140-42ef-a23e-50f35f2c8747/embedded",
           "image": {
-            "alt": "image-5.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/e021e9c4-64d5-4935-be7a-1a9c6b27ca74_image-5.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/e021e9c4-64d5-4935-be7a-1a9c6b27ca74_image-5.png",
+            "alt": "image-5.png"
           }
         },
+        "finishDate": "2026-01-01",
         "linkedCompetences": [
           {
             "name": "AWS",
@@ -730,45 +740,62 @@
         "degreeAchieved": true,
         "name": "Business financial management course",
         "startDate": "2010-11-01",
-        "finishDate": "2011-02-01",
         "institution": {
           "name": "EOI Escuela de Organización Industrial",
-          "description": "",
           "image": {
-            "alt": "unnamed-4.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/e2410667-9b16-4de1-8ccf-d7874495c352_unnamed-4.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/e2410667-9b16-4de1-8ccf-d7874495c352_unnamed-4.jpg",
+            "alt": "unnamed-4.jpg"
           }
-        }
+        },
+        "finishDate": "2011-02-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Master of Science Telematics",
         "startDate": "2004-09-01",
-        "finishDate": "2007-11-01",
         "institution": {
           "name": "Graz University of Technology",
-          "description": "",
-          "URL": "",
           "image": {
-            "alt": "2560px-tu_graz.svg.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/741ac56a-b1c6-49f6-ae18-bc29347aeb42_2560px-tu_graz.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/22/741ac56a-b1c6-49f6-ae18-bc29347aeb42_2560px-tu_graz.png",
+            "alt": "2560px-tu_graz.svg.png"
           }
-        }
+        },
+        "finishDate": "2007-11-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Telecomunication Technical Engineering",
         "startDate": "2000-09-01",
-        "finishDate": "2004-06-01",
         "institution": {
           "name": "Universidad de Alcalá de Henares",
           "description": "Specialty Telematics\n\nNumber one 2003/2004 Class Graduation Price",
           "image": {
-            "alt": "12204.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/af578679-ec4c-4611-b3ec-f37b51b3a9d8_12204.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/21/af578679-ec4c-4611-b3ec-f37b51b3a9d8_12204.png",
+            "alt": "12204.png"
           }
+        },
+        "finishDate": "2004-06-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Capacity for self-management ",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Good presentation skills",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactivity",
+          "type": "practice"
         }
       }
     ]
@@ -777,12 +804,29 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/sergiodelamo/"
+          "URL": "https://www.linkedin.com/in/sergiodelamo/",
+          "type": "linkedin"
         },
         {
-          "type": "other",
-          "URL": "https://stackoverflow.com/users/2138/sergio-del-amo"
+          "URL": "https://stackoverflow.com/users/2138/sergio-del-amo",
+          "type": "stackoverflow"
+        },
+        {
+          "URL": "https://github.com/sdelamo",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/sdelamo",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "sergio.delamo@softamo.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "630442973",
+          "countryCode": "+34"
         }
       ]
     },
@@ -790,6 +834,10 @@
       "preferredCompetences": [
         {
           "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "AWS Lambda",
           "type": "technology"
         },
         {
@@ -801,11 +849,7 @@
           "type": "technology"
         },
         {
-          "name": "Lambda",
-          "type": "technology"
-        },
-        {
-          "name": "Micronaut",
+          "name": "Micronaut Framework",
           "type": "technology"
         }
       ],
@@ -821,5 +865,16 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Honestly, my current job is amazing. I don't see myself changing soon. I work on Open Source. I have public recognition. I work on Micronaut - an exciting JVM framework. I have barely no deadlines. I can do different things (which suites me) from writing code, to writing documentation, do podcasts, public speaking, training. The job is flexible in terms of working hours. I can adjust my job around my kids schedule. \n\nHowever, an unfulfilled dream for me is to release a Software a Service application. Design it, code it, control every decision around it. Basecamp (37 Signals) have always been an inspiration to me.\n\nWorking for Apple would another dream\n\n",
+    "projects": [
+      {
+        "name": "Micronaut Framework"
+      },
+      {
+        "name": "Podcast Código Bot"
+      }
+    ]
   }
 }
