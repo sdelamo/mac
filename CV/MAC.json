@@ -764,6 +764,30 @@
         "finishDate": "2007-11-01"
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Oracle Ace Associate Certificate",
+        "startDate": "2023-11-01",
+        "institution": {
+          "name": "Oracle",
+          "description": "In recognition and appreciation for your technical and/or community leadership contributions to the Oracle communities worldwide demonstrated during June 2022 May 2023. Thank you for your outstanding contribution!",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/10/71453507-a27b-4298-8555-db7eee2420ec_cleanshot-2023-12-10.png",
+            "alt": "CleanShot 2023-12-10 at 19.27.01@2x.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "GraalVM",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Telecomunication Technical Engineering",
