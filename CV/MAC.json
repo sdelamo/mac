@@ -258,6 +258,28 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Micronaut framework introduction talk at the JDevSummit IL conference",
+          "description": "I did a Micronaut framework introduction in the [JDevSummit IL](https://jdevsummitil.com) conference.",
+          "URL": "https://www.youtube.com/watch?v=AR8AGGbkMcg",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/04/81bc542e-64c7-4722-a9d0-8392cd85551a_new-hero-for-24.png",
+            "alt": "new-Hero-for-24.png"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2024-04-01",
+        "tags": [
+          "Conferences"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Micronaut Framework",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Training - Micronaut Essentials",
           "description": "I delivered a 12-hour online course of Micronaut Essentails.\n\nI did a lot of live coding and interactions with the attendees. We wrote an application that used Micronaut Security, Micronaut Data JDBC, Micronaut Serialization, Problem+JSON, Micronaut Views, Open API, and Micronaut Reactor.",
           "URL": "https://micronaut.io/professional-training/micronaut-essentials/"
