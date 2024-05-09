@@ -478,7 +478,7 @@
       {
         "details": {
           "name": "Leveraging Microstream in your Micronaut Applications",
-          "description": "I did an online webinar about MicroStream and the Micronaut Framework where I talked to Markus Kett and Florian Habermann.",
+          "description": "I did an webinar about [MicroStream](https://microstream.one) and the [Micronaut Framework](https://micronaut.io) where I talked to  [Markus Kett](https://twitter.com/MarkusKett) and [Florian Habermann](https://twitter.com/FHHabermann).",
           "URL": "https://www.youtube.com/watch?v=qoA1U-wsA6M",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/09/12ceb444-3c89-4a11-a372-a682e1fceeb5_microstream-logo-ver.svg",
