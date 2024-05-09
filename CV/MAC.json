@@ -687,7 +687,11 @@
         "details": {
           "name": "Barcelona JUG: Micronaut Framework y AWS Lambda",
           "description": "I did an online talk a Barcelona Java User group about AWS Lambda and the Micronaut Framework.",
-          "URL": "https://www.youtube.com/watch?v=S3qYOVNaKS8"
+          "URL": "https://www.youtube.com/watch?v=S3qYOVNaKS8",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/09/db679217-17aa-4b22-901d-1dfe8b2cceff_unnamed-3.jpg",
+            "alt": "unnamed-3.jpg"
+          }
         },
         "type": "talk",
         "publishingDate": "2022-04-01",
