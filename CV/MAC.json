@@ -342,8 +342,8 @@
           "description": "I did a Micronaut framework introduction in the [JDevSummit IL](https://jdevsummitil.com) conference.",
           "URL": "https://www.youtube.com/watch?v=AR8AGGbkMcg",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/04/81bc542e-64c7-4722-a9d0-8392cd85551a_new-hero-for-24.png",
-            "alt": "new-Hero-for-24.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/09/2cf16554-b8de-4886-aeec-ac1c3c022ca0_java-logosummit_logo.svg",
+            "alt": "Java-LogoSummit_logo-color-600x280px.svg"
           }
         },
         "type": "talk",
