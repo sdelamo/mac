@@ -275,6 +275,26 @@
             "startDate": "2021-01-01",
             "competences": [
               {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "GitHub Actions",
+                "type": "technology"
+              },
+              {
+                "name": "Gradle",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
                 "name": "Micronaut Framework",
                 "type": "technology"
               }
