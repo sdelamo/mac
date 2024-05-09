@@ -207,6 +207,30 @@
     "projects": [
       {
         "details": {
+          "name": "Micronaut Guides",
+          "description": "Micronaut Guides are step-by-step tutorials that serve not just as documentation for the community but as a massive test suite for the framework. Every tutorial contains a sample project which users can download and run. The code snippets in those tutorials come from a real tested code. We build and run the tests in every tutorial for every Micronaut release. \n\nI have written or reviewed almost every guide. ",
+          "URL": "https://guides.micronaut.io",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/09/0ce721b6-a694-4549-a6a2-d3f11f48bf1e_cleanshot-2024-05-09.png",
+            "alt": "CleanShot 2024-05-09 at 16.28.58@2x.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-01-01",
+            "competences": [
+              {
+                "name": "Micronaut Framework",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Podcast Código Bot",
           "URL": "https://codigobot.com",
           "image": {
@@ -773,6 +797,9 @@
     "projects": [
       {
         "name": "Micronaut Framework"
+      },
+      {
+        "name": "Micronaut Guides"
       },
       {
         "name": "Podcast Código Bot"
