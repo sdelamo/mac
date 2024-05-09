@@ -249,7 +249,7 @@
       {
         "details": {
           "name": "Podcast Código Bot",
-          "description": "I co-hosted with [Joaquín Engelmo](https://www.kinisoftware.com), a podcast about technology, open-source, programming, productivity, and voice assistants. \n\nI [designed and hosted the website and generated the RSS feed with a custom build](https://github.com/codigobot). \n\nI edited and published each episode. ",
+          "description": "I co-hosted with [Joaquín Engelmo](https://www.kinisoftware.com), a podcast about technology, open-source, programming, productivity, and voice assistants. \n\nI [designed and hosted the website and generated the RSS feed with a custom build](https://github.com/codigobot). \n\nI distributed the podcast via Apple podcasts, Spotify, etc.,\n\nI edited and published each episode. ",
           "URL": "https://codigobot.com",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/23/543d4d2e-ac9d-406b-88c4-8697dacce2ab_artwork-landscape.png",
