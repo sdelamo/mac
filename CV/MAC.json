@@ -208,7 +208,7 @@
       {
         "details": {
           "name": "Micronaut Guides",
-          "description": "Micronaut Guides are step-by-step tutorials that serve not just as documentation for the community but as a massive test suite for the framework. Every tutorial contains a sample project which users can download and run. The code snippets in those tutorials come from a real tested code. We build and run the tests in every tutorial for every Micronaut release. \n\nI have written or reviewed almost every guide. ",
+          "description": "Micronaut Guides are step-by-step tutorials that serve not just as documentation for the community but as a massive test suite for the framework. Every tutorial contains a sample project which users can download and run. The code snippets in those tutorials come from a real tested code. We build and run the tests in every tutorial for every Micronaut release. \n\nI have written or reviewed almost every guide. \n\nWe engineered the [build](https://github.com/micronaut-projects/micronaut-guides) to minimize the update burden. Updating every tutorial to a new Micronaut version often requires just a single line of code change.",
           "URL": "https://guides.micronaut.io",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/09/0ce721b6-a694-4549-a6a2-d3f11f48bf1e_cleanshot-2024-05-09.png",
