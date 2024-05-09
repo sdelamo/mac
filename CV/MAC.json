@@ -207,6 +207,31 @@
     "projects": [
       {
         "details": {
+          "name": "Micronaut Podcast",
+          "description": "I hosted, edited, and published the Micronaut Podcast, a podcast in English that I am joined by a guest. Episodes cover a variety of topics (interviews, tips, news ...) surrounding the Micronaut framework.\n",
+          "URL": "https://micronautpodcast.com",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/09/068fb172-b540-4bee-943d-ed6fca30efcf_artwork.png",
+            "alt": "artwork.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-10-01",
+            "competences": [
+              {
+                "name": "Micronaut Framework",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2023-04-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Podcast Código Bot",
           "description": "I co-hosted with [Joaquín Engelmo](https://www.kinisoftware.com), a podcast about technology, open-source, programming, productivity, and voice assistants. \n\nI [designed and hosted the website and generated the RSS feed with a custom build](https://github.com/codigobot). \n\nI edited and published each episode. ",
           "URL": "https://codigobot.com",
@@ -1053,6 +1078,9 @@
       },
       {
         "name": "Micronaut Guides"
+      },
+      {
+        "name": "Micronaut Podcast"
       },
       {
         "name": "Podcast Código Bot"
