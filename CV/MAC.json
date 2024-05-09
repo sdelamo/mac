@@ -360,6 +360,28 @@
       },
       {
         "details": {
+          "name": "Micronaut Framework Introduction in the Barranquilla Java User Group",
+          "description": "I did a Micronaut framework introduction in Spanish for the Barranquilla Java Users Group\n",
+          "URL": "https://www.youtube.com/watch?v=RMaFT2BVIHI",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/09/a8afe1a2-f69d-4c04-852e-3e1a6f335f10_unnamed.jpg",
+            "alt": "unnamed.jpg"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2023-07-01",
+        "tags": [
+          "Meetup"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Micronaut Framework",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Training - Micronaut Essentials",
           "description": "I delivered a 12-hour online course of Micronaut Essentails.\n\nI did a lot of live coding and interactions with the attendees. We wrote an application that used Micronaut Security, Micronaut Data JDBC, Micronaut Serialization, Problem+JSON, Micronaut Views, Open API, and Micronaut Reactor.",
           "URL": "https://micronaut.io/professional-training/micronaut-essentials/"
