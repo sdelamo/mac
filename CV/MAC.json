@@ -721,7 +721,11 @@
         "details": {
           "name": "How Micronaut Practices Developer Productivity Engineering Using Gradle Enterprise",
           "description": "I did an online webinar with one of my colleagues Cedric Champeau about our experience setting up Gradle Enterprise for 40+ Micronaut projects to improve developer productivity. We shared developer productivity wins, and insights gained using Gradle Enterprise to improve build times by 50%.",
-          "URL": "https://www.youtube.com/watch?v=fpz63IwFIZM"
+          "URL": "https://www.youtube.com/watch?v=fpz63IwFIZM",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/09/c5d18f17-ef71-42ab-ba45-4bbd8c716412_icon-gradle_mono.svg",
+            "alt": "ICON-GRADLE_MONO.svg"
+          }
         },
         "type": "talk",
         "publishingDate": "2022-05-01",
