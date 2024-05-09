@@ -647,7 +647,8 @@
       },
       {
         "details": {
-          "name": "Geecon Krakow 2022 - Getting Started with the Micronaut® Framework",
+          "name": "Geecon Krakow 2022 - Getting Started with the Micronaut Framework",
+          "description": "I delivered my \" Getting Started with the Micronaut Framework\" talk at Geecon Krakow 2022. ",
           "URL": "https://www.youtube.com/watch?v=ibf8T1hoXMM",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/09/9cce8ce2-3906-43fa-aed5-f8391c31d71e_bigpaw.png",
