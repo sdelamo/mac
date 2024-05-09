@@ -250,6 +250,7 @@
       {
         "details": {
           "name": "Micronaut Framework",
+          "description": "Throughout the years, I contributed a lot in the [Security](https://micronaut-projects.github.io/micronaut-security/latest/guide/index.html), [AWS](https://micronaut-projects.github.io/micronaut-aws/latest/guide/index.html), [Views](https://micronaut-projects.github.io/micronaut-views/latest/guide/index.html), [RSS](https://micronaut-projects.github.io/micronaut-rss/latest/guide/index.html), [Problem+JSON](https://micronaut-projects.github.io/micronaut-problem-json/latest/guide/index.html), [Email](https://micronaut-projects.github.io/micronaut-email/latest/guide/index.html), [Starter](https://micronaut-projects.github.io/micronaut-starter/latest/guide/index.html), [EclipseStore](https://micronaut-projects.github.io/micronaut-eclipsestore/latest/guide/index.html), [MicroStream](https://micronaut-projects.github.io/micronaut-microstream/latest/guide/index.html), [OpenSearch](https://micronaut-projects.github.io/micronaut-opensearch/latest/guide/index.html), [Multi-tenancy](https://micronaut-projects.github.io/micronaut-multitenancy/latest/guide/index.html), and [Chatbots](https://micronaut-projects.github.io/micronaut-chatbots/latest/guide/index.html) modules. ",
           "URL": "https://micronaut.io",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/13/6cbe3456-27d6-421e-a9ec-ee928edf5952_micronaut_og_logo.png",
