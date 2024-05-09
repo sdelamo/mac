@@ -773,7 +773,11 @@
         "details": {
           "name": "Manchester JUG: Getting Started with Micronaut Framework",
           "description": "Online talk for the Manchester JUG about the Micronaut Framework.",
-          "URL": "https://www.youtube.com/watch?v=5UrKY3SbOkg"
+          "URL": "https://www.youtube.com/watch?v=5UrKY3SbOkg",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/09/ec4faaaf-db27-4d0c-aa5d-097b854c7dc9_l7icc1hy_400x400.jpg",
+            "alt": "L7icC1Hy_400x400.jpg"
+          }
         },
         "type": "talk",
         "publishingDate": "2022-03-01",
