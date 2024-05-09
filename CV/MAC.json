@@ -600,6 +600,32 @@
       },
       {
         "details": {
+          "name": "Jumpstart your applications with AWS Lambda",
+          "description": "I taught an online three-day course about Micronaut Framework and AWS Lambda.\n",
+          "URL": "https://objectcomputing.com/services/training/catalog/micronaut-training/micronaut-aws-lambda",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/09/63d875ef-000d-4918-94eb-7b2a159bcf88_res_aws-lambda_lambd.svg",
+            "alt": "Res_AWS-Lambda_Lambda-Function_48_Light.svg"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2022-07-01",
+        "tags": [
+          "Training"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "AWS Lambda",
+            "type": "technology"
+          },
+          {
+            "name": "Micronaut Framework",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Micronaut Security Workshop",
           "description": "I presented a workshop about Micronaut Security at JBCNConf 2022.",
           "image": {
