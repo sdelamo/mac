@@ -647,6 +647,27 @@
       },
       {
         "details": {
+          "name": "Geecon Krakow 2022 - Getting Started with the Micronaut® Framework",
+          "URL": "https://www.youtube.com/watch?v=ibf8T1hoXMM",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/09/9e21be66-f91e-4070-918f-c0fa75bb2b65_geecon_slide-01.jpg",
+            "alt": "geecon_slide-01.jpg"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2022-05-01",
+        "tags": [
+          "Conferences"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Micronaut Framework",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "AWS Lambda and Micronaut Framework Workshop at AWS Dublin Offices",
           "description": "I delivered a in-person course for AWS Customers in Dublin AWS Offices on Friday 27th May. ",
           "image": {
@@ -686,23 +707,6 @@
             "name": "Gradle",
             "type": "technology"
           },
-          {
-            "name": "Micronaut Framework",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Geecon Krakow 2022 - Getting Started with the Micronaut® Framework",
-          "URL": "https://www.youtube.com/watch?v=ibf8T1hoXMM"
-        },
-        "type": "talk",
-        "publishingDate": "2022-05-01",
-        "tags": [
-          "Conferences"
-        ],
-        "relatedCompetences": [
           {
             "name": "Micronaut Framework",
             "type": "technology"
