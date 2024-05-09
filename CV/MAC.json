@@ -499,8 +499,12 @@
       },
       {
         "details": {
-          "name": "JCON 2022 - Micronaut Framework and MicroStream Java-native persistence engine",
-          "URL": "https://sergiodelamo.com/blog/jcon-2022-micronaut-microstream.html"
+          "name": "JCON 2022 - Getting Started with the Micronaut Framework",
+          "URL": "https://www.youtube.com/watch?v=gvi-F5BDPXc&embeds_euri=https%3A%2F%2Fsergiodelamo.com%2F&feature=emb_title",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/09/ca738e5e-bb8f-4383-a86d-28dbea5d0650_csm_jcon2022_c7b3730.png",
+            "alt": "csm_JCON2022_c7b3730cab.png"
+          }
         },
         "type": "talk",
         "publishingDate": "2022-09-01",
@@ -516,8 +520,8 @@
       },
       {
         "details": {
-          "name": "JCON 2022 - Getting Started with the Micronaut Framework",
-          "URL": "https://www.youtube.com/watch?v=gvi-F5BDPXc&embeds_euri=https%3A%2F%2Fsergiodelamo.com%2F&feature=emb_title"
+          "name": "JCON 2022 - Micronaut Framework and MicroStream Java-native persistence engine",
+          "URL": "https://sergiodelamo.com/blog/jcon-2022-micronaut-microstream.html"
         },
         "type": "talk",
         "publishingDate": "2022-09-01",
