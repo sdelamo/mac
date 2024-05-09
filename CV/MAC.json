@@ -207,6 +207,24 @@
     "projects": [
       {
         "details": {
+          "name": "Podcast Código Bot",
+          "URL": "https://codigobot.com",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/23/543d4d2e-ac9d-406b-88c4-8697dacce2ab_artwork-landscape.png",
+            "alt": "artwork-landscape.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-01-01",
+            "finishDate": "2021-11-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Micronaut Guides",
           "description": "Micronaut Guides are step-by-step tutorials that serve not just as documentation for the community but as a massive test suite for the framework. Every tutorial contains a sample project which users can download and run. The code snippets in those tutorials come from a real tested code. We build and run the tests in every tutorial for every Micronaut release. \n\nI have written or reviewed almost every guide. \n\nWe engineered the [build](https://github.com/micronaut-projects/micronaut-guides) to minimize the update burden. Updating every tutorial to a new Micronaut version often requires just a single line of code change.",
           "URL": "https://guides.micronaut.io",
@@ -226,24 +244,6 @@
                 "type": "technology"
               }
             ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Podcast Código Bot",
-          "URL": "https://codigobot.com",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/23/543d4d2e-ac9d-406b-88c4-8697dacce2ab_artwork-landscape.png",
-            "alt": "artwork-landscape.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2021-01-01",
-            "finishDate": "2021-12-01"
           }
         ]
       },
