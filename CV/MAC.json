@@ -382,6 +382,44 @@
       },
       {
         "details": {
+          "name": " How to Deploy in AWS a Micronaut Application which Persists with MicroStream?",
+          "description": "I gave this talk at JCON 2023, presenting the Microstream integration with the Micronaut Framework and how to go to production with AWS.",
+          "URL": "https://www.youtube.com/watch?v=G5Uy8OODtEg",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/09/f4a71a92-1f9e-47c8-98f4-0066e48b74d8_jcon-2023-logo-europ.png",
+            "alt": "JCON-2023-Logo-Europe.png"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2023-06-01",
+        "tags": [
+          "Conferences"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "DynamoDB",
+            "type": "technology"
+          },
+          {
+            "name": "Java",
+            "type": "technology"
+          },
+          {
+            "name": "Micronaut Framework",
+            "type": "technology"
+          },
+          {
+            "name": "S3",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Micronaut Framework and Microstream Java-Native Persistence Engine",
           "description": "I introduced the MicroStream integration with Micronaut in the 2023 JCON Conference.\n",
           "URL": "https://www.youtube.com/watch?v=Sg5ZKCteNDU",
