@@ -509,6 +509,19 @@
       },
       {
         "details": {
+          "name": "Partner of Object Computing Inc.",
+          "description": "In December of 2017, I flew to St. Louis to attend Object Computing's holiday partner. Gina M Bremehr, President and COO, welcomed me as a new partner\n\n> Excited and grateful to welcome Teresa Cathey, Tino Nwamba, Sergio del Amo Caballero, Kianna Reed, and Robert Elfanbaum as Object Computing Partners and Equity Shareholders. Thank you to each of you for your outstanding contributions and leadership.\n\n> All of us is better than any one of us. Innovate courageously and mindfully. Share it back.",
+          "URL": "https://www.linkedin.com/feed/update/urn:li:activity:7008850408336953344/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/09/393c7de9-2325-43ec-89a6-57293e6b39f1_header-logo.svg",
+            "alt": "header-logo.svg"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2022-12-01"
+      },
+      {
+        "details": {
           "name": "Training - Micronaut Essentials",
           "description": "I delivered a 12-hour online course of [Micronaut Essentails](https://micronaut.io/professional-training/micronaut-essentials/).\n\nI did a lot of live coding and interactions with the attendees. We wrote an application that used Micronaut Security, Micronaut Data JDBC, Micronaut Serialization, Problem+JSON, Micronaut Views, Open API, and Micronaut Reactor.",
           "URL": "https://micronaut.io/professional-training/micronaut-essentials/",
@@ -539,16 +552,25 @@
       },
       {
         "details": {
-          "name": "Partner of Object Computing Inc.",
-          "description": "In December of 2017, I flew to St. Louis to attend Object Computing's holiday partner. Gina M Bremehr, President and COO, welcomed me as a new partner\n\n> Excited and grateful to welcome Teresa Cathey, Tino Nwamba, Sergio del Amo Caballero, Kianna Reed, and Robert Elfanbaum as Object Computing Partners and Equity Shareholders. Thank you to each of you for your outstanding contributions and leadership.\n\n> All of us is better than any one of us. Innovate courageously and mindfully. Share it back.",
-          "URL": "https://www.linkedin.com/feed/update/urn:li:activity:7008850408336953344/",
+          "name": "Leveraging Microstream in your Micronaut Applications",
+          "description": "I did a webinar about [MicroStream](https://microstream.one) and the [Micronaut Framework](https://micronaut.io) where I talked to  [Markus Kett](https://twitter.com/MarkusKett) and [Florian Habermann](https://twitter.com/FHHabermann).",
+          "URL": "https://www.youtube.com/watch?v=qoA1U-wsA6M",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/09/393c7de9-2325-43ec-89a6-57293e6b39f1_header-logo.svg",
-            "alt": "header-logo.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/09/12ceb444-3c89-4a11-a372-a682e1fceeb5_microstream-logo-ver.svg",
+            "alt": "MicroStream-Logo-Vertical.svg"
           }
         },
-        "type": "achievement",
-        "publishingDate": "2022-12-01"
+        "type": "talk",
+        "publishingDate": "2022-10-01",
+        "tags": [
+          "Webinar"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Micronaut Framework",
+            "type": "technology"
+          }
+        ]
       },
       {
         "details": {
@@ -569,28 +591,6 @@
             "name": "AWS Lambda",
             "type": "technology"
           },
-          {
-            "name": "Micronaut Framework",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Leveraging Microstream in your Micronaut Applications",
-          "description": "I did a webinar about [MicroStream](https://microstream.one) and the [Micronaut Framework](https://micronaut.io) where I talked to  [Markus Kett](https://twitter.com/MarkusKett) and [Florian Habermann](https://twitter.com/FHHabermann).",
-          "URL": "https://www.youtube.com/watch?v=qoA1U-wsA6M",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/09/12ceb444-3c89-4a11-a372-a682e1fceeb5_microstream-logo-ver.svg",
-            "alt": "MicroStream-Logo-Vertical.svg"
-          }
-        },
-        "type": "talk",
-        "publishingDate": "2022-10-01",
-        "tags": [
-          "Webinar"
-        ],
-        "relatedCompetences": [
           {
             "name": "Micronaut Framework",
             "type": "technology"
@@ -641,32 +641,6 @@
       },
       {
         "details": {
-          "name": "Jumpstart your applications with AWS Lambda",
-          "description": "I taught an online three-day course about Micronaut Framework and AWS Lambda.\n",
-          "URL": "https://objectcomputing.com/services/training/catalog/micronaut-training/micronaut-aws-lambda",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/09/63d875ef-000d-4918-94eb-7b2a159bcf88_res_aws-lambda_lambd.svg",
-            "alt": "Res_AWS-Lambda_Lambda-Function_48_Light.svg"
-          }
-        },
-        "type": "talk",
-        "publishingDate": "2022-07-01",
-        "tags": [
-          "Training"
-        ],
-        "relatedCompetences": [
-          {
-            "name": "AWS Lambda",
-            "type": "technology"
-          },
-          {
-            "name": "Micronaut Framework",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Micronaut Security Workshop",
           "description": "I presented a workshop about Micronaut Security at JBCNConf 2022.",
           "image": {
@@ -688,37 +662,16 @@
       },
       {
         "details": {
-          "name": "Geecon Krakow 2022 - Getting Started with the Micronaut Framework",
-          "description": "I delivered my \" Getting Started with the Micronaut Framework\" talk at Geecon Krakow 2022. ",
-          "URL": "https://www.youtube.com/watch?v=ibf8T1hoXMM",
+          "name": "Jumpstart your applications with AWS Lambda",
+          "description": "I taught an online three-day course about Micronaut Framework and AWS Lambda.\n",
+          "URL": "https://objectcomputing.com/services/training/catalog/micronaut-training/micronaut-aws-lambda",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/09/9cce8ce2-3906-43fa-aed5-f8391c31d71e_bigpaw.png",
-            "alt": "bigpaw.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/09/63d875ef-000d-4918-94eb-7b2a159bcf88_res_aws-lambda_lambd.svg",
+            "alt": "Res_AWS-Lambda_Lambda-Function_48_Light.svg"
           }
         },
         "type": "talk",
-        "publishingDate": "2022-05-01",
-        "tags": [
-          "Conferences"
-        ],
-        "relatedCompetences": [
-          {
-            "name": "Micronaut Framework",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "AWS Lambda and Micronaut Framework Workshop at AWS Dublin Offices",
-          "description": "I delivered a in-person course for AWS Customers in Dublin AWS Offices on Friday 27th May. ",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/09/f179bea0-277d-4f10-8559-ef90a123f248_res_aws-lambda_lambd.svg",
-            "alt": "Res_AWS-Lambda_Lambda-Function_48_Dark.svg"
-          }
-        },
-        "type": "talk",
-        "publishingDate": "2022-05-01",
+        "publishingDate": "2022-07-01",
         "tags": [
           "Training"
         ],
@@ -753,6 +706,53 @@
             "name": "Gradle",
             "type": "technology"
           },
+          {
+            "name": "Micronaut Framework",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "AWS Lambda and Micronaut Framework Workshop at AWS Dublin Offices",
+          "description": "I delivered a in-person course for AWS Customers in Dublin AWS Offices on Friday 27th May. ",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/09/f179bea0-277d-4f10-8559-ef90a123f248_res_aws-lambda_lambd.svg",
+            "alt": "Res_AWS-Lambda_Lambda-Function_48_Dark.svg"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2022-05-01",
+        "tags": [
+          "Training"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "AWS Lambda",
+            "type": "technology"
+          },
+          {
+            "name": "Micronaut Framework",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Geecon Krakow 2022 - Getting Started with the Micronaut Framework",
+          "description": "I delivered my \" Getting Started with the Micronaut Framework\" talk at Geecon Krakow 2022. ",
+          "URL": "https://www.youtube.com/watch?v=ibf8T1hoXMM",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/09/9cce8ce2-3906-43fa-aed5-f8391c31d71e_bigpaw.png",
+            "alt": "bigpaw.png"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2022-05-01",
+        "tags": [
+          "Conferences"
+        ],
+        "relatedCompetences": [
           {
             "name": "Micronaut Framework",
             "type": "technology"
