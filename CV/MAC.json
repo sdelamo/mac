@@ -59,6 +59,7 @@
           {
             "name": "Micronaut Product Development Lead / Distinguished Engineer",
             "startDate": "2023-03-01",
+            "finishDate": "2024-05-01",
             "challenges": [
               {
                 "description": "In February 2023, the Micronaut Foundation joined the Unity Foundation. I joined Unity Foundation following the framework. I continued my role in the Micronaut Foundation as the developer lead and as a member of the Micronaut Foundation's board of directors. \n\nIn 2024, the Micronaut Foundation released the fourth major version of the framework—Micronaut 4.0. I managed the release, contributing to both the technical and advocacy sides. I also coordinated the work between the Micronaut Foundation and the Oracle Labs team—both companies were the top technical contributors to the framework.  \n\nAt the Micronaut Foundation, I lead a remote team of four engineers. \n\nDuring this phase, I continued managing the framework releases, writing technical documentation, contributing bug fixes and new modules to the framework, speaking at conferences and user groups, and creating content for the framework's YouTube channel.\n"
@@ -941,7 +942,7 @@
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Master of Science Telematics",
-        "startDate": "2004-09-01",
+        "startDate": "2005-02-01",
         "institution": {
           "name": "Graz University of Technology",
           "image": {
