@@ -48,6 +48,37 @@
     "jobs": [
       {
         "organization": {
+          "name": "Object Computing Inc.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/31/f11e812d-4a64-4273-9a35-cbb436596316_ocicube-color.svg",
+            "alt": "ocicube-color.svg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Distinguished Software Engineer",
+            "startDate": "2024-05-01",
+            "finishDate": "2024-07-01",
+            "challenges": [
+              {
+                "description": "I helped to port an Akka Scala application to a Spring Boot Java application."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Unity Foundation",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/20/9c7919ce-2b2a-4e3d-9aaa-a95384ffacb0_unitylogo.png",
