@@ -970,6 +970,26 @@
         "finishDate": "2011-02-01"
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Foundations Associate Oracle Cloud Infrastructure",
+        "startDate": "2024-11-01",
+        "institution": {
+          "name": "Oracle",
+          "URL": "https://catalog-education.oracle.com/ords/certview/sharebadge?id=71F3BD3AE60510E334AC01408928E8FB48BDD9B26228B1C06F6F11A39EA7E62E",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/11/18/10994e16-27ee-4ef9-9f8c-8809535cd64d_2024-11-18_oracle_ce.png",
+            "alt": "2024-11-18_oracle_certified_foundations_associate.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Oracle Cloud",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Master of Science Telematics",
